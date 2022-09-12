@@ -1,0 +1,22 @@
+h3{
+   text-decoration: underline; 
+   background-color: grey;
+   color: white;
+   text-align: center;
+   font-size: 100px;
+}
+body{
+    background-image: url(third.jpg);
+}
+div{
+    display: grid;
+    background-color: aliceblue;
+    word-spacing: 5px;
+}
+button img{
+    display: none;
+}
+button:hover{
+    display: flex;
+    justify-content: space-between;
+}

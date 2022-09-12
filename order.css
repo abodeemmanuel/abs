@@ -1,0 +1,23 @@
+body{
+    background-image: url(second.jpg);
+    align-items: center;
+
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: large;
+    text-align: right; 
+    color: black;
+    font-size: larger;
+    background-color: rgb(32, 32, 44);
+    color: white;
+}
+header{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+    

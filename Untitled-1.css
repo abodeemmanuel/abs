@@ -1,0 +1,43 @@
+header{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+div{
+    background-color: whitesmoke;
+    text-align: center;
+    text-transform:uppercase ;
+    padding: 20px;
+    font-size: x-large;
+}
+a{ 
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+    display: inline-block;
+    font-size: xx-large;
+    letter-spacing: 7px;
+    word-spacing: 10px;
+
+}
+a:hover{
+    background-color: black;
+    color: white;
+
+}
+body{
+    background-image: url(download.jpg);
+}
+section{
+    text-align: center;
+    align-items: center;
+    font-size: 200px;
+    background: linear-gradient(whitesmoke);
+    color: white;
+}
+footer{
+    color: white;
+    font-size: x-large;
+    display: inline-block;
+}
